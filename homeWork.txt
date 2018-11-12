@@ -1,0 +1,11 @@
+HomeWork
+Practise on Polymorphyism part
+1.create class Shape-> as super class has draw()
+2.create two classes -> Circle,Rectangle that extends Shape -> Override method draw()
+3.create main method for excuting code
+
+
+
+
+---------------------------------------------
+http://register.kshrd.com.kh/information
